@@ -56,5 +56,6 @@ Java, Quarkus, SpringBoot, Kotlin, Go, Gin, Node.js, React, Vue, NestJS, Express
 :link: [LinkedIn](https://www.linkedin.com/in/alyelalwany/)
 
 :lock: Use this <a href="resources/publickey.alimagdi@protonmail.com-726fde8f2f5ec2d592dec63df17dec869958b3b0.asc" download>GPG Public Key</a> to encrypt your message if it includes sensitive information. 
-Instructions on how to use it can be found in this blog post. 
+Instructions on how to use it can be found in this [blog post](./blog/encrypting-with-gpg-public-key.md). 
+
 

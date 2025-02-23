@@ -29,7 +29,7 @@ export default defineConfig({
         socialLinks: [
             {icon: 'github', link: 'https://github.com/alyelalwany'},
             {icon: 'linkedin', link: 'https://www.linkedin.com/in/alyelalwany/'},
-
+            {icon: 'x', link: 'https://x.com/alyelalwany'},
         ],
 
         search: {
