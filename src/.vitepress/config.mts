@@ -4,6 +4,7 @@ import {defineConfig} from 'vitepress'
 export default defineConfig({
     title: "Aly Elalwany",
     description: "Aly Elalwany's personal website",
+    base: '/resume',
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
