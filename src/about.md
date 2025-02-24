@@ -44,8 +44,6 @@ Java, Quarkus, SpringBoot, Kotlin, Go, Gin, Node.js, React, Vue, NestJS, Express
 - :books: Documentation and Training
 - :speech_balloon: Consulting and Support
 - :handshake: Collaboration and Teamwork
-- :bulb: Innovation and Creativity
-- :computer: Remote Work and Distributed Teams
 - :rocket: Agile and Scrum Methodologies
 - :hourglass_flowing_sand: Time Management and Prioritization
 - :chart: Cost Calculation and Reduction 
